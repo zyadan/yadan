@@ -1,3 +1,3 @@
 # yadan
 
-just to test how to use ti
+just to test how to use it
