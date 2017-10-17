@@ -1,3 +1,3 @@
 # yadan
 start
-juat to test how to use ti
+just to test how to use ti
